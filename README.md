@@ -1,6 +1,6 @@
 # Acquire Access Token from Console
 
-This simple example uses the Microsoft Authentication Library (MSAL) to obtain an access token from Azure Active Directory from a .NET 6 console application.
+This simple example uses the Microsoft Authentication Library (MSAL) to obtain an access token from Azure Active Directory from a .NET 6 console application, without an MSAL cache configured, forcing the user to authenticate each time.
 
 The configuration information required is:
 
